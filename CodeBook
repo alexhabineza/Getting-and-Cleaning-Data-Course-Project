@@ -1,0 +1,10 @@
+
+The following data transformations were conducted to form a tidy dataset:
+  1. Added a new feature ***activitylabel*** - factor variable for activities with the following levels: *WALKING*, *WALKING_UPSTAIRS*, *WALKING_DOWNSTAIRS*, *SITTING*, *STANDING*, *LAYING*
+  2. Tidy dataset was build as a mean values of features grouped by ***activitylabel*** and ***subject*** - for each subject and activity type determined mean values over all activities of that type.
+The following data transformations were conducted to form a tidy dataset:  
+  
+  1. Added a new feature ***activitylabel*** - factor variable for activities with the following levels: *WALKING*, *WALKING_UPSTAIRS*, *WALKING_DOWNSTAIRS*, *SITTING*, *STANDING*, *LAYING*. 
+
+2. Tidy dataset was build as a mean values of features grouped by ***activitylabel*** and ***subject*** - for each subject and activity type determined mean values over all activities of that type.  
+
